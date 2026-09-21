@@ -1,5 +1,5 @@
 # maraio-broz
- Mario Broz feito em JavaScript
+ Mario Broz  JavaScript
 
 # Link das IMG
 
